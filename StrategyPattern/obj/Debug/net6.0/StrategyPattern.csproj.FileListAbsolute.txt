@@ -1,0 +1,12 @@
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/bin/Debug/net6.0/StrategyPattern.deps.json
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/bin/Debug/net6.0/StrategyPattern.dll
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/bin/Debug/net6.0/ref/StrategyPattern.dll
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/bin/Debug/net6.0/StrategyPattern.pdb
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.csproj.AssemblyReference.cache
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.AssemblyInfoInputs.cache
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.AssemblyInfo.cs
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.dll
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/ref/StrategyPattern.dll
+/Users/cloudworld/Desktop/Tech/Design_Patterns/Design_Patterns/StrategyPattern/obj/Debug/net6.0/StrategyPattern.pdb
